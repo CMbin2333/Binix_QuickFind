@@ -1,4 +1,4 @@
-# Binix_QuickFind (BinixOvO) 🔍
+# Binix_QuickFind 1.2.0(BinixOvO) 🔍
 
 A lightweight, highly responsive Chrome extension for comprehensive searching and managing of your bookmarks, browsing history, and downloads—all from a single, beautifully designed popup.
 
